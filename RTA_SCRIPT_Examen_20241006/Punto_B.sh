@@ -10,7 +10,7 @@ echo "El disco encontrado es: $DISCO"
 
 echo "Creamos las particiones"
 echo
-# Crea 10 particiones iguales
+# Crea 10 particiones iguales, lo genero asi ya que probe ocn un for y al correrlo me arroja un error
 sudo fdisk $DISCO << EOF
 n
 e
