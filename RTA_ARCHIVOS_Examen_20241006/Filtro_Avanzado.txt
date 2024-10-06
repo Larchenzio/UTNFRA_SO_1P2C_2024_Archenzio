@@ -1,0 +1,4 @@
+Mi IP Pública es: 190.175.60.15
+Mi usuario es: vagrant
+El Hash de mi usuario es: 85a6238616fac51b31371fc38460c636826c0cfc1e5a4be37a3123d09937571f
+La URL de mi repositorio es: git@github.com:Larchenzio/UTNFRA_SO_1P2C_2024_Archenzio.git
